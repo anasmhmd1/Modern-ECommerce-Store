@@ -1,0 +1,133 @@
+{
+  "hero": [
+    {
+      "id": 1,
+      "image": "/images/hero_amber_bottles_1769307402735.png",
+      "subtitle": "New Arrival Collection",
+      "title": "Secret of Beauty\nO'Natural",
+      "cta": "Discover Now",
+      "collection": "New Arrival"
+    },
+    {
+      "id": 2,
+      "image": "/images/hero_lavender_oil_1769307439690.png",
+      "subtitle": "Essential Oils",
+      "title": "EO Ageless\nSkincare",
+      "cta": "View Collection",
+      "collection": "Featured"
+    },
+    {
+      "id": 3,
+      "image": "/images/hero_hair_gel_1769307467731.png",
+      "subtitle": "For Men",
+      "title": "Boogie's Bold\nHair Gel",
+      "cta": "Shop Now",
+      "collection": "On Sale"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Diamond Halo Stud",
+      "price": 325,
+      "image": "/images/hero_lavender_oil_1769307439690.png",
+      "category": "Featured",
+      "description": "تزنسي ذتشذ تشزي ذتشزذ شتذزش تنشي ذ شتذنش ينت شي د دشتي ذشي ذشتذ",
+      "details": "",
+      "images": []
+    },
+    {
+      "id": 2,
+      "name": "Amber Essence",
+      "price": 145,
+      "image": "/images/hero_amber_bottles_1769307402735.png",
+      "category": "Featured"
+    },
+    {
+      "id": 3,
+      "name": "Tropical Gel",
+      "price": 45,
+      "image": "/images/hero_hair_gel_1769307467731.png",
+      "category": "New Arrival"
+    },
+    {
+      "id": 4,
+      "name": "Summer Sun",
+      "price": 85,
+      "image": "/images/banner_summer_collection_1769307505741.png",
+      "category": "On Sale"
+    },
+    {
+      "id": 5,
+      "name": "Lavender Mist",
+      "price": 120,
+      "image": "/images/hero_lavender_oil_1769307439690.png",
+      "category": "Featured"
+    },
+    {
+      "id": 6,
+      "name": "Organic Serum",
+      "price": 210,
+      "image": "/images/hero_amber_bottles_1769307402735.png",
+      "category": "New Arrival"
+    },
+    {
+      "id": 7,
+      "name": "Bold Clay",
+      "price": 55,
+      "image": "/images/hero_hair_gel_1769307467731.png",
+      "category": "On Sale"
+    },
+    {
+      "id": 8,
+      "name": "Beach Glow",
+      "price": 95,
+      "image": "/images/banner_summer_collection_1769307505741.png",
+      "category": "Featured"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Claudia Casey",
+      "location": "New York, USA",
+      "text": "I absolutely love the natural finish of the skincare line. It feels so luxurious and my skin has never looked better. Highly recommended!",
+      "image": "/images/testimonial_claudia_1769307541557.png"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Jenkins",
+      "location": "London, UK",
+      "text": "The delivery was incredibly fast and the packaging is just stunning. Cosmetica really understands luxury beauty.",
+      "image": "/images/testimonial_claudia_1769307541557.png"
+    }
+  ],
+  "collections": [
+    "Featured",
+    "New Arrival",
+    "On Sale"
+  ],
+  "featureBanners": {
+    "left": {
+      "image": "/images/banner_summer_collection_1769307505741.png",
+      "title": "Collection\nSummer",
+      "btnText": "Shop Now",
+      "link": "/?collection=Featured"
+    },
+    "middle": {
+      "subtitle": "Limited Time",
+      "title": "50%\nOFF",
+      "text": "Get the best deals on our exclusive range.",
+      "btnText": "View Details",
+      "link": "/?collection=On Sale"
+    },
+    "rightImages": [
+      "/images/hero_amber_bottles_1769307402735.png",
+      "/images/hero_lavender_oil_1769307439690.png",
+      "/images/hero_hair_gel_1769307467731.png",
+      "/images/hero_amber_bottles_1769307402735.png",
+      "/images/hero_lavender_oil_1769307439690.png",
+      "/images/banner_summer_collection_1769307505741.png"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #8A9A5B;
+  --color-secondary: #F9F9F9;
+  --color-accent: #000000;
+  
+  --font-serif: var(--font-playfair);
+  --font-sans: var(--font-montserrat);
+}
+
+/* Custom Utilities if needed later */
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: white;
+  color: var(--color-accent);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+}
